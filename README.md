@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, welcome to my github, my name is Gonçalo</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-- 👨‍💻 You can check the projects that i have been involved at [www.goncalosard.com](www.goncalosard.com)
-www.goncalosard.com
+- 👨‍💻 You can check the projects that i have been involved at [goncalosard.com](http://www.goncalosard.com/)
+
 - 📫 How to reach me **goncalosard@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
