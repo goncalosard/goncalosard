@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, welcome to my github, my name is Gonçalo</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-- 👨‍💻 You can check the projects that i have been involved at [goncalosard.com](http://www.goncalosard.com/)
+- 👨‍💻 You can check the projects that i have been involved at [goncalosard.dev](http://www.goncalosard.dev/)
 
 - 📫 How to reach me **goncalosard@hotmail.com**
 
